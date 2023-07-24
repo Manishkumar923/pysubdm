@@ -35,11 +35,11 @@ along with these programs. If not, see <http://www.gnu.org/licenses/>.
 Two codes are provided: 
 	
 	1.	mesh_sub.py  => To generate 2D rectangular domain resembling
-       	a polycrystalline material that contains the primary and secondary
+         	a polycrystalline material that contains the primary and secondary
 		small subdomains using the Python API of the Gmsh library.
 
 	2.	simulation_sub.py => To import the generated mesh, assign the 
-	    different material properties to the domain and subdomains, 
+	        different material properties to the domain and subdomains, 
 		and simulate for the linear elastic isotropic material considering
 		small-scale deformations using the Python API of the FEniCS library.
 
