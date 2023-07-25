@@ -17,7 +17,7 @@ FEniCS in the Python 3.0 environment. To use this code, installation
 of Python API for Gmsh is required, which is available on
 https://pypi.org/project/gmsh/ 
 
-Copyright (C) <2023>  <Manish Kumar>
+Copyright (C) <2023>  <Manish_Kumar>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
