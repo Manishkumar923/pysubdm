@@ -82,3 +82,11 @@ dolfin-convert inputmesh.msh outputmesh.xml.
 
 
 More conceptual details about code development can be found in the provided document.
+
+For the reference purpose the generated model with code model_sub.py is presented below.
+
+<img src="/Images/1.png" title="The computaional model generated with the code model_sub.py">
+
+For the reference purpose the material assignment with code simulation_sub.py is presented below.
+
+<img src="/Images/2.png" title="The contour plot of the material assignment by the code simulation_sub.py">
