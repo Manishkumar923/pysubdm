@@ -16,27 +16,38 @@ The provided codes are developed using the Python API of Gmsh and
 FEniCS in the Python 3.0 environment in Ubuntu framework.
 To use this code, installation instructions are as follows,
 
-FEniCS installation
-sudo apt-get install software-properties-common
-sudo add-apt-repository ppa:fenics-packages/fenics
-sudo apt-get update
-sudo apt-get install fenics
+FEniCS installation:
+
+        sudo apt-get install software-properties-common
+	
+        sudo add-apt-repository ppa:fenics-packages/fenics
+	
+        sudo apt-get update
+	
+        sudo apt-get install fenics
+
 more details can be found at the https://fenicsproject.org/download/archive/
 
-Gmsh installation
-sudo apt-get update
-sudo apt-get install gmsh
+Gmsh installation:
 
-Python API for Gmsh
-pip install --upgrade gmsh
+        sudo apt-get update
+	
+        sudo apt-get install gmsh
+
+Python API for Gmsh:
+
+        pip install --upgrade gmsh
+	
 other external libraries used in the codes are: numpy and shapely.
 Which can be install using following commands.
 
-Numpy
-pip install numpy
+Numpy:
 
-Shapely
-pip install shapely
+        pip install numpy
+
+Shapely:
+
+        pip install shapely
 
 
 Copyright (C) <2023>  <Manish_Kumar>
