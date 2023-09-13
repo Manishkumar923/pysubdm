@@ -78,7 +78,7 @@ Two codes are provided:
 
 Command to convert .msh file into .xml
 
-dolfin-convert inputmesh.msh outputmesh.xml.
+	dolfin-convert inputmesh.msh outputmesh.xml.
 
 
 More conceptual details about code development can be found in the provided document.
